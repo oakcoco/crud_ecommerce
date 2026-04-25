@@ -1,4 +1,4 @@
-
+""
 <?php
 //hello im practicing git
 session_start();

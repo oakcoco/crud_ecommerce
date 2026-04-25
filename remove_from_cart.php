@@ -11,4 +11,6 @@ if (isset($_GET['index'])) {
 
 header("Location: cart.php");
 exit();
+
+//hello there im practicing git
 ?>

@@ -86,7 +86,10 @@ $items  = $result->fetch_all(MYSQLI_ASSOC);
         .product-card .card-text  { font-size: 0.9rem; color: #666; }
         .navbar {
             background-color: #ff5722;
-            height: 75px;
+            height: 100px;
+            position: block;
+            bottom: 24px;
+            width: 100%;
         }
         .carousel-inner {
             height: 500px;
@@ -114,7 +117,7 @@ $items  = $result->fetch_all(MYSQLI_ASSOC);
         .navbar-brand { 
             color: white !important; }
         .admin-header {
-            ali
+            align-items:relative;
             text-align: center;
             padding: 0px 15px 0px;
             font-size: .75rem;

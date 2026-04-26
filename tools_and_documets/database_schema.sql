@@ -18,8 +18,8 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
-CREATE DATABASE IF NOT EXISTS `hello`;
-USE `hello`;
+CREATE DATABASE IF NOT EXISTS `crud_sample`;
+USE `crud_sample`;
 --
 
 -- --------------------------------------------------------
